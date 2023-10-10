@@ -12,7 +12,7 @@
 
 ### What you'll need:
 - 7 x M1.7 x 5mm Pan Head Machine Screw
-- 1 x M2 x 3mm set screw (grub scre)
+- 1 x M2 x 3mm set screw (grub screw)
 - ~50mm x 12mm x 0.5mm brass bar/sheet
 
 ### What would be helpful:

@@ -7,7 +7,7 @@
 - [Circular Fisheye Viewfinder](https://github.com/Archive-663/samyang7_5mm/tree/main/viewFinder)
 
 ### Accompanying video:
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=sT1oIzzUE1g))
+[![Watch the video]]((https://www.youtube.com/watch?v=sT1oIzzUE1g))
 
 ### Background Story:
 I believe this is the most compact full circular fisheye 135 film setup available. If I'm wrong, please let me know. 

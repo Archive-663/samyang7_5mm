@@ -6,7 +6,7 @@
 
 
 ### Features:
-- The most compact full circular fisheye lens for any 135 film SLR camera system. 
+- The most compact full circular fisheye lens for any 135 film interchangable camera system. 
 - Redesigned Focus Track to allow for infinity focus
 - Customizeable Focus, Aperture, and Indicator Rings
 

@@ -1,6 +1,6 @@
 # Lot no. 010 | Samyang 7.5mm f3.5 Leica M Rehousing
 
-![productShot001](https://github.com/Archive-663/olympusPENF/blob/main/ASSETS/PRODUCT/product_PENF%20(1).jpg)
+![productShot001](https://github.com/Archive-663/samyang7_5mm/blob/main/ASSETS/PRODUCT/sam7_5_product%20(13).jpg)
 
 ### In this repository:
 - [Pen-F L-Bracket + Grip](https://github.com/Archive-663/olympusPENF/tree/main/L-Bracket)

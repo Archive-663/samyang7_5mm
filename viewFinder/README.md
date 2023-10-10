@@ -1,4 +1,4 @@
-## ~180 Degree Viewfinder
+## ~170 Degree Viewfinder
 ![productShot001](https://github.com/Archive-663/samyang7_5mm/blob/main/ASSETS/PRODUCT/sam7_5_product%20(22).jpg)
 
 ### Features:

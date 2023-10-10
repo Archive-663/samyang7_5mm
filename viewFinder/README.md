@@ -5,11 +5,13 @@
 - About a 180 Degree Field of View
 - Alternate setup offers somewhere in the ball park of +190 Degree Field of View
 - Relatively compact
-- Off the shelf parts
+- Off the shelf optics
 
 ### What you'll need:
-- 3x M2 x 3mm set screws (grub screws)
+- 3-4x M2 x 3mm set screws (grub screws)
 - 2x M3 x 3mm pan head machine screws
+- A set of smartphone lenses that include a 198 Fisheye Lens + 120 Super Wide-Angle Lens
+-   Similar to this: [Keywing Phone lens kit](https://www.amazon.com/gp/product/B08DQRKY6D/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 ### What would be helpful:
 - M2 drill bit
@@ -27,11 +29,7 @@ You can reference the supplied 'printOrientation' .3mf files for suggested print
 ### Assembly help:
 Please view the supplied assembly STP file to see how the lens should be assembled.
 
-I don't recommend you use a 3D printed focus track. Send the STP/STEP file off to get CNC'ed for you. You may need to fine tune fitment after wards.
-
-THe aperture arm should not be used if printed. Use it as an example of how your aperture arm should look. Transfer the template file onto 0.5mm brass. Cut to template line. Fold on template divots. Sand until fitment is correct. Install and mark the hole from the aperture ring. Drill the hole and secure with an M2 x 3mm set screw.
-
-For the lens cap, use some sort of glue to join the nameplate and lens cap. I used superglue or cyanoacrylate. If you do just make sure the curing process is completed. I've had bad experiences with superglue offgassing and fogging lenses. 
+The viewfinder can be completely done with FDM 3D printing. If you want a better fit and finish send the 'forCNC' STP/STEP files to get machined. Depending on what you print you'll need to secure the front element with 3-4 M2 set screws. There are two coldshot sizes and you can use either for the standard ~180 viewfinder. They secure with M3 machine screws.
 
 ### Help support Archive 663 with a dontation or monthly sub
 

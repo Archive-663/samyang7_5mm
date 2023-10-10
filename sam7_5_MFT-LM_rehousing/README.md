@@ -1,53 +1,40 @@
 Samyang 7.5mm f3.5 Leica M Rehousing
 
-![productShot001](https://github.com/Archive-663/samyang7_5mm/blob/main/ASSETS/PRODUCT/sam7_5_product%20(13).jpg)
+![productShot001](https://github.com/Archive-663/samyang7_5mm/blob/main/ASSETS/PRODUCT/sam7_5_product%20(21).jpg)
+![productShot001](https://github.com/Archive-663/samyang7_5mm/blob/main/ASSETS/PRODUCT/sam7_5_product%20(19).jpg)
+![productShot001](https://github.com/Archive-663/samyang7_5mm/blob/main/ASSETS/PRODUCT/sam7_5_product%20(20).jpg)
+
 
 ### Features:
+- The most compact full circular fisheye lens for any 135 film SLR camera system. 
 - Redesigned Focus Track to allow for infinity focus
 - Customizeable Focus, Aperture, and Indicator Rings
 
 ### What you'll need:
-- 1x 1/4-20 x 5/16" hex drive pan head screw
-- 1x 1/4-20 x 17mm Camvate Tripod Screw (Item no. 1987)
-- 1x M4 x 12mm Hex Cap Machine Screw
-- 1x M4 x 8mm Heatset Threaded Insert
-- 1x M2 x 8mm Hex Cap Machine Screw
-- 1x M2 x 4mm Heatset Threaded Insert
-- 1x Soldering Iron or Heat Set Insert Jig
-- 8" Bastard Cut file
-- Assortment of mini files
+- 7 x M1.7 x 5mm Pan Head Machine Screw
+- 1 x M2 x 3mm set screw (grub scre)
+- ~50mm x 12mm x 0.5mm brass bar/sheet
 
 ### What would be helpful:
 - M2 drill bit
-- M2.6 drill bit
-- M4 drill bit
-- M5.3 drill bit
-- 1/4 drill bit
-
-### What you'll need if you want to make a custom grip
-- 2x M4 x 18mm Hex Cap Machine Screw
-- 2x M4 Threaded Inserts for wood
-- A stationary belt or disc sander
-- A hand saw
-- M5.5 drill bit for the threaded inserts
-- Video coming soon.
+- M2 tap
+- A Dremel w/cutoff wheel
+- Microfiles
 
 ### Printing help:
 Filament recommendation:
 - ABS
+- PETG
 
-Normally, I would recommend PETG but it's pretty bad with impacts.
-
-Generally, all my designs have chamfers on the print face of the STL. You can reference the supplied 'printOrientation' .3mf files for suggested print orientation.
+You can reference the supplied 'printOrientation' .3mf files for suggested print orientation.
 
 ### Assembly help:
-Drill holes to their correct tap size before tapping.
-- M4 heatset inserts require M5.3 bore.
-- M2 heatset inserts require M2.6 bore.
+Please view the supplied assembly STP file to see how the lens should be assembled.
 
-You will need to file the Sliding Arm so it slides smoothly in the Base Bracket. Additionally, you will need to file the dove tail on the Side Bracket for a snug fit in the Sliding Arm.
+I don't recommend you use a 3D printed focus track. Send the STP/STEP file off to get CNC'ed for you. You may need to fine tune fitment after wards.
 
-You may need to clean up the M2 hole after heat setting the threaded insert.
+THe aperture arm should not be used if printed. Use it as an example of how your aperture arm should look. Transfer the template file onto 0.5mm brass. Cut to template line. Fold on template divots. Sand until fitment is correct. Install and mark the hole from the aperture ring. Drill the hole and secure with an M2 x 3mm set screw. 
+
 ### Help support Archive 663 with a dontation or monthly sub
 
 <a href='https://ko-fi.com/P5P3MHMSF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>

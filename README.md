@@ -1,4 +1,4 @@
-# Lot no. 010 | Samyang 7.5mm f3.5 Leica M Rehousing
+# Lot no. 009 | Samyang 7.5mm f3.5 Leica M Rehousing
 
 ![productShot001](https://github.com/Archive-663/samyang7_5mm/blob/main/ASSETS/PRODUCT/sam7_5_product%20(13).jpg)
 

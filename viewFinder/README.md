@@ -11,7 +11,8 @@
 - 3-4x M2 x 3mm set screws (grub screws)
 - 2x M3 x 3mm pan head machine screws
 - A set of smartphone lenses that include a 198 Fisheye Lens + 120 Super Wide-Angle Lens
--   Similar to this: [Keywing Phone lens kit](https://www.amazon.com/gp/product/B08DQRKY6D/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- Similar to this: [Keywing Phone lens kit](https://www.amazon.com/gp/product/B08DQRKY6D/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- For a wider FOV you can try finding these: [Deathlens Fisheye](https://www.deathdigital.com/collections/all/products/fisheye-lens-iphone-14) I don't know if they changed their design since I made this viewfinder.
 
 ### What would be helpful:
 - M2 drill bit
@@ -30,6 +31,8 @@ You can reference the supplied 'printOrientation' .3mf files for suggested print
 Please view the supplied assembly STP file to see how the lens should be assembled.
 
 The viewfinder can be completely done with FDM 3D printing. If you want a better fit and finish send the 'forCNC' STP/STEP files to get machined. Depending on what you print you'll need to secure the front element with 3-4 M2 set screws. There are two coldshot sizes and you can use either for the standard ~180 viewfinder. They secure with M3 machine screws.
+
+The optics needed are from the 198 Degree fisheye lens and the 120 degree wide angle lens. Please refer to the supplied assembly STP file to see their orientation. For the wider FOV viewfinder you need to locate a Deathlens fisheye lens or similar fisheye. It's probably around a 238 degree fisheye, and if you can find a similar one it should work. A more reliable source for a wider FOV is the Lemuro fisheye lens and I'll upload the viewfinder cap for that one in a bit. Again, refere to the supplied assembly STP file to see how to assemble. 
 
 ### Help support Archive 663 with a dontation or monthly sub
 

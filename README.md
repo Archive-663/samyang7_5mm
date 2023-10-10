@@ -4,7 +4,7 @@
 
 ### In this repository:
 - [Samyang 7.5mm f3.5 MFT to Leica M Rehousing](https://github.com/Archive-663/samyang7_5mm/tree/main/sam7_5_MFT-LM_rehousing)
-- [Circular Fisheye Viewfinderl](https://github.com/Archive-663/samyang7_5mm/tree/main/viewFinder)
+- [Circular Fisheye Viewfinder](https://github.com/Archive-663/samyang7_5mm/tree/main/viewFinder)
 
 ### Background Story:
 I believe this is the most compact full circular fisheye 135 film setup available. If I'm wrong, please let me know. 

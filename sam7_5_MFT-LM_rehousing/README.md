@@ -35,6 +35,8 @@ Please view the supplied assembly STP file to see how the lens should be assembl
 
 I don't recommend you use a 3D printed focus track. Send the STP/STEP file off to get CNC'ed for you. Request they tap the holes for M1.7 threads. There is a hold on the cylinder that is for a 1.5mm spring and ball bearing that acts as the aperture detent. You may need to fine tune fitment after wards.
 
+THe indicator ring works better if you tap the threads with an M2 thread first. Since it's using set screws it'll expand the ring diameter, so you'll have to file the interior mating focus ring to make it rotate smoothly. 
+
 THe aperture arm should not be used if printed. Use it as an example of how your aperture arm should look. Transfer the template file onto 0.5mm brass. Cut to template line. Fold on template divots. Sand until fitment is correct. Install and mark the hole from the aperture ring. Drill the hole and secure with an M2 x 3mm set screw.
 
 For the lens cap, use some sort of glue to join the nameplate and lens cap. I used superglue or cyanoacrylate. If you do just make sure the curing process is completed. I've had bad experiences with superglue offgassing and fogging lenses. 

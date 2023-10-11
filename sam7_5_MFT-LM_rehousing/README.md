@@ -14,6 +14,8 @@
 - 7 x M1.7 x 5mm Pan Head Machine Screw
 - 1 x M2 x 3mm set screw (grub screw)
 - ~50mm x 12mm x 0.5mm brass bar/sheet
+- 1.5mm x 2mm spring
+- 1.5mm ball bearing
 
 ### What would be helpful:
 - M2 drill bit
@@ -31,7 +33,7 @@ You can reference the supplied 'printOrientation' .3mf files for suggested print
 ### Assembly help:
 Please view the supplied assembly STP file to see how the lens should be assembled.
 
-I don't recommend you use a 3D printed focus track. Send the STP/STEP file off to get CNC'ed for you. You may need to fine tune fitment after wards.
+I don't recommend you use a 3D printed focus track. Send the STP/STEP file off to get CNC'ed for you. Request they tap the holes for M1.7 threads. There is a hold on the cylinder that is for a 1.5mm spring and ball bearing that acts as the aperture detent. You may need to fine tune fitment after wards.
 
 THe aperture arm should not be used if printed. Use it as an example of how your aperture arm should look. Transfer the template file onto 0.5mm brass. Cut to template line. Fold on template divots. Sand until fitment is correct. Install and mark the hole from the aperture ring. Drill the hole and secure with an M2 x 3mm set screw.
 

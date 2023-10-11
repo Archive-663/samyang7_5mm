@@ -32,7 +32,7 @@ Please view the supplied assembly STP file to see how the lens should be assembl
 
 The viewfinder can be completely done with FDM 3D printing. If you want a better fit and finish send the 'forCNC' STP/STEP files to get machined. Depending on what you print you'll need to secure the front element with 3-4 M2 set screws. There are two coldshoe sizes and you can use either for the standard ~170 viewfinder. They secure with M3 machine screws.
 
-The optics needed are from the 198 Degree fisheye lens and the 120 degree wide angle lens. Please refer to the supplied assembly STP file to see their orientation. For the wider FOV viewfinder you need to locate a Deathlens fisheye lens or similar fisheye. It's probably around a 238 degree fisheye, and if you can find a similar one it should work. A more reliable source for a wider FOV is the Lemuro fisheye lens and I'll upload the viewfinder cap for that one in a bit. Again, refere to the supplied assembly STP file to see how to assemble. 
+The optics needed are from the 198 Degree fisheye lens and the 120 degree wide angle lens. Please refer to the supplied assembly STP file to see their orientation. For the wider FOV viewfinder you need to locate a Deathlens fisheye lens or similar fisheye. It's probably around a 238 degree fisheye, and if you can find a similar one it should work. A more reliable source for a wider FOV is the Lemuro fisheye lens and I'll upload the viewfinder cap for that one in a bit. Again, refer to the supplied assembly STP file to see how to assemble. 
 
 ### Help support Archive 663 with a dontation or monthly sub
 

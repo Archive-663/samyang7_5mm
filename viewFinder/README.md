@@ -10,13 +10,13 @@
 ### What you'll need:
 
 #### For Print
-- 3x M2 x 3mm set screws (grub screws) for Standard Viewfinder
-- 3x M1.6 x 5mm machine screws (PETG) or self tapping screws (PETG or ABS) for Print version
-- 2x M3 x 6mm pan head machine screws (PETG) or self tapping screws (PETG or ABS) for Print verion
+- 4x M2 x 3mm set screws (grub screws) for Standard Viewfinder
+- 3x M1.6 x 5mm machine screws (PETG) or self tapping screws (PETG or ABS) for Lemuro and Death Lens
+- 2x M3 x 6mm pan head machine screws (PETG) or self tapping screws (PETG or ABS)
 
 #### For CNC
-- 3x M2 x 3mm set screws (grub screws) for CNC (Lemuro or Death Lens)
-- 2x M3 x 6mm pan head machine screws for CNC
+- 3x M2 x 3mm set screws (grub screws)
+- 2x M3 x 6mm pan head machine screws
 
 #### Lens Elements
 - A set of smartphone lenses that include a 198 Fisheye Lens + 120 Super Wide-Angle Lens

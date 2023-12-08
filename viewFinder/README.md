@@ -18,6 +18,7 @@
 - 3x M2 x 3mm set screws (grub screws) for CNC (Lemuro or Death Lens)
 - 2x M3 x 6mm pan head machine screws for CNC
 
+#### Lens Elements
 - A set of smartphone lenses that include a 198 Fisheye Lens + 120 Super Wide-Angle Lens
 - Similar to this: [Keywing Phone lens kit](https://www.amazon.com/gp/product/B08DQRKY6D/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - For a wider FOV you can try finding these:

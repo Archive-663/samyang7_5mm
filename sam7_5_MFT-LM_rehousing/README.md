@@ -31,7 +31,7 @@ Filament recommendation:
 You can reference the supplied 'printOrientation' .3mf files for suggested print orientation.
 
 ### Assembly help:
-Please view the supplied assembly STP file to see how the lens should be assembled.
+Please view the _assembly.stp file for help in parts orientation. If you do not have a CAD program, <a href="https://www.freecad.org/downloads.php" target="_blank">download FreeCAD</a> to view the assembly file and better understand how it should assemble.
 
 I don't recommend you use a 3D printed focus track. Send the STP/STEP file off to get CNC'ed for you. Request they tap the holes for M1.7 threads. There is a hold on the cylinder that is for a 1.5mm spring and ball bearing that acts as the aperture detent. You may need to fine tune fitment after wards.
 
